@@ -19,3 +19,7 @@ server.listen(8080);
 function test(a, b){
     return a+b
 }
+
+function add(b,c){
+    return b-c
+}
